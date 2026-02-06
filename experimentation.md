@@ -1,5 +1,3 @@
 # Experimentation
 ## Emoji
 😐❔
-## @Mention
-@guyer
